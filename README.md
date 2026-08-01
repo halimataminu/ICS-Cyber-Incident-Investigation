@@ -12,13 +12,19 @@ The objective was to reconstruct the attack, identify attacker behaviour, invest
 - Protocol Analysis
 - TCP Stream Analysis
 
-## Skills Demonstrated
+## Key Skills
+
+This project demonstrates practical experience in:
 
 - Network Traffic Analysis
-- Incident Response
+- Wireshark Packet Analysis
+- Incident Investigation
 - Threat Hunting
-- ICS Security
+- Industrial Control System (ICS) Security
 - Threat Modelling
+- Command-and-Control Detection
+- Data Exfiltration Analysis
+
 
 ## Investigation Summary
 
@@ -28,6 +34,18 @@ The investigation identified:
 - Command-and-Control traffic
 - FTP data exfiltration
 - Modbus register manipulation
+
+## Key Takeaways
+
+This investigation demonstrates practical experience in:
+
+- Network traffic analysis using Wireshark
+- Incident response and attack reconstruction
+- Detection of phishing and credential harvesting
+- Identification of command-and-control activity
+- Analysis of data exfiltration techniques
+- Industrial Control System (ICS) security investigation
+- Threat modelling and security recommendations
 
 ## Screenshots
 
